@@ -36,8 +36,8 @@ public class UserDto implements Serializable {
         return firstName;
     }
 
-    public void setFirstname(String firstname) {
-        this.firstName = firstname;
+    public void setFirstname(String firstName) {
+        this.firstName = firstName;
     }
 
     public String getLastName() {
