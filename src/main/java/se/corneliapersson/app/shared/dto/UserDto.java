@@ -32,11 +32,11 @@ public class UserDto implements Serializable {
         this.userId = userId;
     }
 
-    public String getFirstname() {
+    public String getFirstName() {
         return firstName;
     }
 
-    public void setFirstname(String firstName) {
+    public void setFirstName(String firstName) {
         this.firstName = firstName;
     }
 
